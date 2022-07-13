@@ -1,3 +1,8 @@
-.ButtonWrapper-sc-__sc-1qu8p4z-0 gtZsUd BrandButton-sc-__sc-1ckh2u2-7 jObivl{
+.jObivl {
+    display: flex;
+    border-radius: 4px;
+    text-decoration: none;
+    padding-top: 0px;
+    padding-bottom: 0px;
     visibility: hidden;
 }
