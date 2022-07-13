@@ -14,5 +14,33 @@
 }
 
 .insta{
+    position: absolute;
+    top: 450px; 
+    left: 49%;
+    width: 32px;
+    height: 32px;
     background-image: url(https://raw.githubusercontent.com/hananinas/elusive/main/images/instagram.svg);
 }
+
+@media only screen and (max-width: 600px) {
+    .insta{
+        position: absolute;
+        top: 60%; 
+        left: 45%;
+        width: 32px;
+        height: 32px;
+        background-image: url(https://raw.githubusercontent.com/hananinas/elusive/main/images/instagram.svg);
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    .logo{
+        position: absolute;
+        top: 10%; 
+        left:50%;
+        margin-left:-160px;
+        width: 326px;
+        height: 67px;
+        background-image: url(https://raw.githubusercontent.com/hananinas/elusive/main/images/elusivelogo.svg);
+    }
+  }
