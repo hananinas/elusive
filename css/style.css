@@ -34,7 +34,7 @@ box{
     left: 49%;
     width: 32px;
     height: 32px;
-    background-image: url();
+    background-image: url(https://github.com/hananinas/elusive/blob/main/images/elusivelogo-mobile.svg);
 }
 
 @media only screen and (max-width: 600px) {
